@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/02/01 15:10:41.000.600,=C:\Users\Msaur\Documents\Embarcadero\Studio\Projets\Project1PCH1.h</Transaction>
+    <Transaction>2018/02/01 15:10:41.000.723,=C:\Users\Msaur\Documents\Embarcadero\Studio\Projets\Unit1.cpp</Transaction>
+    <Transaction>2018/02/01 15:15:43.000.003,C:\Users\Msaur\Documents\Embarcadero\Studio\Projets\Unit1.dfm=C:\Users\Msaur\Documents\Kone\Kone.dfm</Transaction>
+    <Transaction>2018/02/01 15:15:43.000.003,C:\Users\Msaur\Documents\Embarcadero\Studio\Projets\Unit1.cpp=C:\Users\Msaur\Documents\Kone\Kone.cpp</Transaction>
+    <Transaction>2018/02/01 15:15:43.000.003,C:\Users\Msaur\Documents\Embarcadero\Studio\Projets\Unit1.h=C:\Users\Msaur\Documents\Kone\Kone.h</Transaction>
+    <Transaction>2018/02/01 15:16:15.000.032,C:\Users\Msaur\Documents\Embarcadero\Studio\Projets\Project1PCH1.h=C:\Users\Msaur\Documents\Kone\Project1PCH1.h</Transaction>
+    <Transaction>2018/02/01 15:16:17.000.237,C:\Users\Msaur\Documents\Embarcadero\Studio\Projets\Project1.cbproj=C:\Users\Msaur\Documents\Kone\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
